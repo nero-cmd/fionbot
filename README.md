@@ -1,2 +1,3 @@
-# fionbot
-English Instagram report bot by nero-cmd
+HOW TO INSTALL
+1. Unpack the .zip file
+2. Open bot.bat
